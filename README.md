@@ -1,4 +1,3 @@
-
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System project! This system utilizes advanced techniques, including Demographic Filtering, Content-Based Filtering, and a Weighted Rating mechanism based on the IMDB formula, to offer personalized movie recommendations. The objective is to enhance users' movie-watching experience by considering their demographic information, individual preferences, and reliable movie ratings.
@@ -47,4 +46,10 @@ To run the project:
 - Consider creating a hybrid recommendation system incorporating both content-based recommendations and weighted ratings for a more comprehensive approach.
 
 Feel free to explore the notebook, try out different movie titles, and enjoy a personalized movie recommendation experience!
+
+## Authors
+
+- Rudra Shah - [My GitHub Profile](https://github.com/rshah-92)
+
+Enjoy playing the Higher or Lower Game! If you have any questions or suggestions, feel free to reach out.
 
